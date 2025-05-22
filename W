@@ -1,0 +1,13 @@
+ids,labels,parents
+Woonerf,Woonerf
+Building,Building,Woonerf
+Landscape,Landscape,Woonerf
+City,City,Woonerf
+ESG,ESG,Woonerf
+New,New,Building
+Existing,Existing,Building
+New,New,Landscape
+Existing,Existing,Landscape
+New,New,City
+Existing,Existing,City
+Assessment and Disclosure, Assessment and Disclosure,ESG
