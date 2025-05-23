@@ -2,10 +2,6 @@ ids,labels,parents
 Woonerf,Woonerf
 Building,Building,Woonerf
 New-Building,New,Building
-ids,labels,parents
-Woonerf,Woonerf
-Building,Building,Woonerf
-New-Building,New,Building
 LEED BD+C,LEED BD+C,New-Building
 Integrative Process Planning & Assessments-new,Integrative Process (IP),LEED BD+C
 Location and Transportation (LT)-new,Location and Transportation (LT),LEED BD+C
